@@ -1,0 +1,101 @@
+*{
+    font-family: sans-serif;
+    margin: 1%;
+    border-radius: 5px;
+}
+#header{
+    background-color: yellow;
+    text-align: center;
+    width: auto;
+    height: 6%;
+    padding-top: 1%;
+    padding-bottom: 0.5%;
+}
+nav{
+    background-color: red;
+    text-align: center;
+    width: 20%;
+    height: 163%;
+    float: left;
+}
+.main{
+    background-color: lightgreen;
+    text-align: center;
+    width: 76%;
+    height: auto;
+    float: left;
+}
+footer p{
+    background-color: hotpink;
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 0.5%;
+    clear: both;
+}
+.main article{
+    background-color: aqua;
+    width: 80%;
+    height: auto;
+    margin-left: 10%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.main article header{
+    background-color: hotpink;
+    width: 80%;
+    height: auto;
+    margin-left: 10%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.main article header h3{
+    text-align: left;
+    margin-left: 1%;
+}
+.main article header div h3{
+    background-color: darkkhaki;
+    width: 80%;
+    height: auto;
+    text-align: center;
+    margin-left: 10%;
+}
+.main article header p{
+    background-color: aquamarine;
+    width: 80%;
+    height: auto;
+    margin-left: 10%;
+}
+.main article div p{
+    margin: 10;
+}
+.main article footer h3{
+    background-color: darkgoldenrod;
+    width: 80%;
+    height: auto;
+    margin-left: 10%;
+}
+.main article section article{
+    background-color: palegreen;
+    width: 65%;
+    height: auto;
+    padding: 0;
+    margin-left: 25%;
+}
+.main article section article h3{
+    text-align: left;
+    margin-left: 1%;
+}
+.main article section article div h3{
+    background-color: hotpink;
+    width: 80%;
+    height: auto;
+    text-align: center;
+    margin-left: 10%;
+}
+.main article form{
+    background-color: yellow;
+    width: 80%;
+    height: auto;
+    margin-left: 10%;
+    margin-bottom: 10px;
+}
